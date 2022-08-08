@@ -24,4 +24,8 @@
     .small-hero-right-column {
         display: none;
     }
+
+    .blogs-second-row {
+        display: none
+    }
 }
