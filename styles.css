@@ -16,10 +16,6 @@
     }
 }
 
-.small-hero-left-column {
-    background-color: red;
-}
-
 @media (max-width: 761px) {
     .small-hero-right-column {
         display: none;
