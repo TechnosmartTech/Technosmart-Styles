@@ -20,4 +20,8 @@
     .small-hero-right-column {
         display: none;
     }
+
+    .small-hero-left-column {
+        display: none;
+    }
 }
